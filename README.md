@@ -90,8 +90,8 @@ Summary
  Can be found in `eth-contracts/build/contracts` folder.
  
 ## OpenSea MarketPlace Storefront link
-- Original minter : `https://rinkeby.opensea.io/accounts/0x4fda5baf52b8ff93399673f3f89a93ef31066ad8`
-- Buyer : `https://rinkeby.opensea.io/accounts/0x15e542f44d1f0811ec4453fa5493eff1859f89b6`
+- Original minter : `https://rinkeby.opensea.io/accounts/0xE2fc9338fF8E2EBe595Ca1eDb7936d3B8e8CA032`
+- Buyer : `https://rinkeby.opensea.io/accounts/0xfa97Dbd81583bE7584575e6c016ecD230F742571`
 
 ## Work Process Instruction
 These instructions will go over step by step how this project works. 
