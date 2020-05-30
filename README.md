@@ -90,7 +90,10 @@ Summary
  Can be found in `eth-contracts/build/contracts` folder.
  
 ## OpenSea MarketPlace Storefront link
-- Original minter : `https://rinkeby.opensea.io/accounts/0xE2fc9338fF8E2EBe595Ca1eDb7936d3B8e8CA032`
+- Storefront link : `https://rinkeby.opensea.io/assets/ss-erc721mintabletoken-v4`
+- ERC721 Tokens: 'https://rinkeby.opensea.io/assets/0x002270e5fb587738eedc8bc437e2c3bc7d77c908/23 -- 29 '
+
+- Minter: 'https://rinkeby.opensea.io/accounts/0xe2fc9338ff8e2ebe595ca1edb7936d3b8e8ca032'
 - Buyer : `https://rinkeby.opensea.io/accounts/0xfa97Dbd81583bE7584575e6c016ecD230F742571`
 
 ## Work Process Instruction
