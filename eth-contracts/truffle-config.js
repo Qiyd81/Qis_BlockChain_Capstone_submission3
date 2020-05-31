@@ -54,8 +54,8 @@ module.exports = {
             },
             skipDryRun: true,
             network_id: 4,
-            gas: 10000000000000000,
-            gasPrice: 20000000000000000
+            gas: 6900000,
+            gasPrice: 200000000000
         },
 
         // Another network with more advanced options...
