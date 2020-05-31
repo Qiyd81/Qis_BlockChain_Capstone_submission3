@@ -102,6 +102,10 @@ These instructions will go over step by step how this project works.
 ### Installing
 'npm install'
 
+### pragma version modification advice
+Hi, Reviewer:
+After 'npm install', when 'truffle compile', in case you encountered 'TypeError: Cannot read property '0' of null', you can go to file 'openzeppelin-solidity/contracts/utils/Address.sol', and modify the pragma line 'pragma solidity ^0.5.5' to 'pragma solidity ^0.5.0', then the compile can process without error. And all following process can work correctly. 
+
 ### Compile and tests the eth-contracts
 'cd eth-contracts'
 'truffle compile'
